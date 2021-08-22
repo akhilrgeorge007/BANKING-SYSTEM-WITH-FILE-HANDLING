@@ -202,6 +202,7 @@ void deposit(){
     user_interface();
 }
 
+// Transfer amount from one account to another within the file
 void transfer(struct account_details tmp){
     int res,amt;
     char ac[15];
