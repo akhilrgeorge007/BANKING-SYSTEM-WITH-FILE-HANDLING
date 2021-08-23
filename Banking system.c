@@ -1,7 +1,10 @@
+// Done by - Akhil Raymond George
+
 /* 
 BANKING SYSTEM PROGRAM WITH PERSISTENCE
 BINARY FILE - data.dat used to store user informations
 [Program uses structure, functions,file handling]
+ADMIN password 123
                                                  */
 
 #include<stdio.h>
