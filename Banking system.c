@@ -6,7 +6,7 @@ BINARY FILE - data.dat used to store user informations
 [Program uses structure, functions,file handling]
 ADMIN password 123
                                                  */
-
+//Fork demo
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
